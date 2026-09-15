@@ -1,6 +1,6 @@
 from build_site import upcoming, render
 EVENTS = [
-    {"title": "Hackathon", "date": "2027-03-01", "venue": "Lab 4"},
+    {"title": "Hackathon", "date": "2026-03-01", "venue": "Lab 4"},
     {"title": "Orientation", "date": "2026-02-14", "venue": "Auditorium"},
     {"title": "Old AGM", "date": "2025-11-02", "venue": "Room 12"},
 ]
