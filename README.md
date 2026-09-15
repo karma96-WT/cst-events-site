@@ -1,2 +1,3 @@
-# CI/CD Lab 
+# CI/CD Lab
+
 # GitHub Actions
